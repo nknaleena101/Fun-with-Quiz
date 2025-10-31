@@ -1,7 +1,7 @@
 # 🎯 Fun with Quiz
 
 A simple and fun **quiz game** built in **C language**!
-Test your general knowledge with multiple-choice questions and see how many you can get right!
+Test your general knowledge with multiple choice questions and see how many you can get right
 
 ---
 
